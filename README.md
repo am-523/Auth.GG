@@ -1,2 +1,9 @@
-# Auth.GG-Admin-Panel-By-Nostrum_Fixed
-Auth.GG Admin Panel
+# Auth.GG-Admin-Panel-By-Nostrum
+
+This Auth.GG panel was totally created by me, you can use it without problems. 
+If you need help or find any problem you can contact me.
+If you use part of my code there is no problem just mention me :).
+
+# Images
+![imagen_2021-06-01_142515](https://user-images.githubusercontent.com/65697997/120372435-2f316e00-c2e5-11eb-9ab0-3543d023a93c.png)
+![imagen_2021-06-01_142533](https://user-images.githubusercontent.com/65697997/120372478-39ec0300-c2e5-11eb-9cf1-6638273c4627.png)
