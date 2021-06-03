@@ -7,6 +7,7 @@ If you use part of my code there is no problem just mention me :).
 # Instructions
 
 Download
+
 Rename the folder to Auth.GG
 
 ![imagen_2021-06-02_234336](https://user-images.githubusercontent.com/65697997/120583505-5c247480-c3fc-11eb-9cf4-a1c98d711c60.png)
