@@ -28,6 +28,7 @@ Open the folder and go to: Auth.GG\packages.Bunifu.UI.WinForms.5.0.7.7\lib.net40
 Delete Bunifu.Licensing.dll
 
 Search for Bunifu.Licensing.dll
+
 ![imagen_2021-06-02_235825](https://user-images.githubusercontent.com/65697997/120584684-6e071700-c3fe-11eb-8c7b-3dc63b81739c.png)
 
 Copy and paste it into the following folder: Auth.GG\packages.Bunifu.UI.WinForms.5.0.7.7.7.net40 
