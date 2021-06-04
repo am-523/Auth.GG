@@ -33,6 +33,14 @@ Search for Bunifu.Licensing.dll
 
 Copy and paste it into the following folder: Auth.GG\packages.Bunifu.UI.WinForms.5.0.7.7.7.net40 
 
+# Problems with ns1.siticone?
+
+Remove siticone from references
+
+Go to the Dlls folder
+
+Add Siticone.dll to references
+
 # Images
 ![imagen_2021-06-01_142515](https://user-images.githubusercontent.com/65697997/120372435-2f316e00-c2e5-11eb-9ab0-3543d023a93c.png)
 ![imagen_2021-06-01_142533](https://user-images.githubusercontent.com/65697997/120372478-39ec0300-c2e5-11eb-9cf1-6638273c4627.png)
